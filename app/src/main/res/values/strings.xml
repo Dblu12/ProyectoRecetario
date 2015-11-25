@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recetario</string>
+
+    <string name="buscar">Buscar</string>
+    <string name="foto">Hacer foto</string>
+    <string name="galeria">Buscar en galeria</string>
+    <string name="nombre">Nombre</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="anadirreceta">Receta añadida</string>
+    <string name="anadiringrediente">Ingrediente añadido</string>
+    <string name="modreceta">Receta modificada</string>
+
+    <string name="modfoto">Foto cambiada</string>
+</resources>
